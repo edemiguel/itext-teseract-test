@@ -31,7 +31,7 @@
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
 			<artifactId>pdfbox</artifactId>
-			<version>2.0.12</version>
+			<version>2.0.21</version>
 		</dependency>
 
 		<dependency>
@@ -44,6 +44,12 @@
 			<groupId>com.qoppa.pdfprocess</groupId>
 			<artifactId>pdfprocess</artifactId>
 			<version>v2018R1.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.sourceforge.tess4j</groupId>
+			<artifactId>tess4j</artifactId>
+			<version>4.5.4</version>
 		</dependency>
 
 	</dependencies>
